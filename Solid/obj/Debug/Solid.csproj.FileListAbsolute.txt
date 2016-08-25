@@ -1,0 +1,2 @@
+D:\github\Solid\Solid\bin\Debug\Solid.exe.config
+D:\work\Solid\Solid\bin\Debug\Solid.exe.config
