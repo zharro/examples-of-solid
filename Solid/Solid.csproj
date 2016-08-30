@@ -52,6 +52,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FileStore\FileStore.cs" />
+    <Compile Include="LogImporterExample\DIPed\After\LogEntryParser.cs" />
+    <Compile Include="LogImporterExample\DIPed\After\LogEntryReader.cs" />
+    <Compile Include="LogImporterExample\DIPed\After\LogImporter.cs" />
+    <Compile Include="LogImporterExample\DIPed\Before\LogEntryParser.cs" />
     <Compile Include="LogImporterExample\Initial\LogImporter.cs" />
     <Compile Include="LogImporterExample\Initial\LogSaver.cs" />
     <Compile Include="LogImporterExample\LSPed\LogEntryParser.cs" />

@@ -1,6 +1,4 @@
 ﻿using System;
-using Solid.LogImporterExample.SRPed;
-
 namespace Solid.LogImporterExample.Initial
 {
     internal class LogSaver

@@ -9,7 +9,7 @@
         public LogImporter(string logFile)
         {
             // Создаем нужный парсер в зависимости от имени файла
-            _parser = LogFileParser.Create(logFile);
+            _parser = LogEntryParser.Create(logFile);
         }
     }
 }
